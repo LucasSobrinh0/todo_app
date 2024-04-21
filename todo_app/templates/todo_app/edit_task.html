@@ -1,0 +1,20 @@
+{% extends 'todo_app/base.html' %}
+
+{% block content %}
+<div class="todo-app-container">
+    <h1 class="heading">Editar Tarefa</h1>
+    <form method="POST" action="{% url 'edit_task' task.id %}" class="task-form">
+        {% csrf_token %}
+        <div class="form-group">
+            <label for="id_task_title">Title</label>
+            <input type="text" id="id_task_title" name="task_title" value="{{ task.task_title }}" class="form-control" required>
+        </div>
+        <div class="form-group">
+            <label for="id_entry">Task</label>
+            <textarea id="id_entry" name="entry" class="form-control" required>{{ task.entry }}</textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Update Task</button>
+        <a href="{% url 'task_list_and_create' %}" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>
+{% endblock %}
