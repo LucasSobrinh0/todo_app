@@ -20,8 +20,10 @@ Projeto para aprimorar habilidades em Django, focado em ensinar conceitos de bac
 
 1. Clone o repositório:
 https://github.com/LucasSobrinh0/todo_app
+
 2. Instale as dependências:
 pip install -r requirements.txt
+
 3. Rode o servidor:
 python manage.py runserver
 
@@ -30,4 +32,5 @@ python manage.py runserver
 Lucas Sobrinho Carneiro
 
 Linkedin: https://www.linkedin.com/in/lucas-sobrinho-c-b9b6661b9/
+
 Email: lucas.sobrinho.crn@gmail.com
