@@ -1,14 +1,14 @@
 # To Do App
 
-## Sobre
+## About
 
-Este projeto visa aprimorar habilidades em Django, focando em ensinar conceitos de back-end para iniciantes.
+This project aims to enhance Django skills, focusing on teaching back-end concepts to beginners.
 
 ## Layout
 
 ![Layout do To Do App](./img/layout.png)
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - Python
 - Django
@@ -16,18 +16,18 @@ Este projeto visa aprimorar habilidades em Django, focando em ensinar conceitos 
 - HTML
 - CSS
 
-## Como usar
+## How to Use
 
-1. Clone o repositório:
+1. Clone the repository:
 https://github.com/LucasSobrinh0/todo_app
 
-2. Instale as dependências:
+2. Install the dependencies:
 pip install -r requirements.txt
 
-3. Rode o servidor:
+3. Run the server:
 python manage.py runserver
 
-## Autor
+## Author
 
 Lucas Sobrinho Carneiro
 
