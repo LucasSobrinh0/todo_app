@@ -2,13 +2,13 @@
 
 ## Sobre
 
-Projeto para aprimorar habilidades em Django, focado em ensinar conceitos de back end para pessoas com pouco conhecimento.
+Este projeto visa aprimorar habilidades em Django, focando em ensinar conceitos de back-end para iniciantes.
 
 ## Layout
 
 ![Layout do To Do App](./img/layout.png)
 
-## Tecnologias
+## Tecnologias Utilizadas
 
 - Python
 - Django
