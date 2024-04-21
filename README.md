@@ -21,10 +21,16 @@ This project aims to enhance Django skills, focusing on teaching back-end concep
 1. Clone the repository:
 https://github.com/LucasSobrinh0/todo_app
 
-2. Install the dependencies:
+2. Database
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+3. Install the dependencies:
 pip install -r requirements.txt
 
-3. Run the server:
+4. Run the server:
 python manage.py runserver
 
 ## Author
