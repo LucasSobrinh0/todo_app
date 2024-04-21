@@ -1,12 +1,15 @@
 # To Do App
 
 ## Sobre
+
 Projeto para aprimorar habilidades em Django, focado em ensinar conceitos de back end para pessoas com pouco conhecimento.
 
 ## Layout
+
 ![Layout do To Do App](URL_da_imagem "Layout")
 
 ## Tecnologias
+
 - Python
 - Django
 - JavaScript (opcional)
@@ -14,6 +17,7 @@ Projeto para aprimorar habilidades em Django, focado em ensinar conceitos de bac
 - CSS
 
 ## Como usar
+
 1. Clone o repositório:
 https://github.com/LucasSobrinh0/todo_app
 2. Instale as dependências:
@@ -22,6 +26,7 @@ pip install -r requirements.txt
 python manage.py runserver
 
 ##Autor
+
 Lucas Sobrinho Carneiro
 
 Linkedin: https://www.linkedin.com/in/lucas-sobrinho-c-b9b6661b9/
