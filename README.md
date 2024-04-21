@@ -25,7 +25,7 @@ pip install -r requirements.txt
 3. Rode o servidor:
 python manage.py runserver
 
-##Autor
+## Autor
 
 Lucas Sobrinho Carneiro
 
