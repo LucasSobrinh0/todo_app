@@ -6,7 +6,7 @@ Projeto para aprimorar habilidades em Django, focado em ensinar conceitos de bac
 
 ## Layout
 
-![Layout do To Do App](.img/layout)
+![Layout do To Do App](./img/layout.png)
 
 ## Tecnologias
 
