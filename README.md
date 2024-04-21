@@ -18,7 +18,7 @@ Projeto para aprimorar habilidades em Django, focado em ensinar conceitos de bac
 https://github.com/LucasSobrinh0/todo_app
 2. Instale as dependências:
 pip install -r requirements.txt
-3. Rode o servidor
+3. Rode o servidor:
 python manage.py runserver
 
 ##Autor
